@@ -48,7 +48,7 @@ The Shiny app provides an interactive bar plot to visualize the expression level
 - **Bar Plot of Gene Expression Levels**:  
   Once a gene is selected from the dropdown menu, the app generates a bar plot that shows its expression levels under `ConditionA` (mean = 10, sd = 2) and `ConditionB` (mean = 12, sd = 2). The plot is created using `ggplot2` in R, and the bars are filled with different colors to distinguish between conditions.
 
-  ![Gene Expression Visualization](Gene_plot_2)
+  ![Gene Expression Visualization](Gene_plot_2.jpg)
 
   - **X-axis**: Displays the two conditions (`ConditionA` and `ConditionB`).
   - **Y-axis**: Represents the expression level of the selected gene in each condition.
